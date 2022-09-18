@@ -5,9 +5,9 @@ Google Kick Start in JavaScript
 
 ### [Coding Practice with Kick Start Session #3](kick-start-2022/coding-practice-session-3/)
 
-#### [Sample Problem](kick-start-2022/coding-practice-session-3/sample-problem/README.md)
+#### [Sample Problem](kick-start-2022/coding-practice-session-3/sample-problem/)
 
-#### [Record Breaker](kick-start-2022/coding-practice-session-3/record-breaker/README.md)
+#### [Record Breaker](kick-start-2022/coding-practice-session-3/record-breaker/)
 
 # Author
 [LinkedIn](https://www.linkedin.com/in/diegoezequielguillen)

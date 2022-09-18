@@ -1,4 +1,4 @@
-Problem / Problema
+# Problem / Problema
 Isyana is given the number of visitors at her local theme park on N consecutive days. The number of visitors on the i-th day is Vi. A day is record breaking if it satisfies both of the following conditions:
 A Isyana se le da el número de visitantes en su parque temático local en N días consecutivos. El número de visitantes en el i-ésimo día es Vi. Un día es récord si cumple las dos condiciones siguientes:
 
@@ -13,31 +13,31 @@ Note that the very first day could be a record breaking day!
 Please help Isyana find out the number of record breaking days.
 Por favor, ayude a Isyana a averiguar el número de días récord.
 
-Input / Entrada
+## Input / Entrada
 The first line of the input gives the number of test cases, T. T test cases follow. Each test case begins with a line containing the integer N. The second line contains N integers. The i-th integer is Vi and represents the number of visitors on the i-th day.
 La primera línea de la entrada da el número de casos de prueba, T. Siguen los casos de prueba T. Cada caso de prueba comienza con una línea que contiene el número entero N. La segunda línea contiene N números enteros. El i-ésimo entero es Vi y representa el número de visitantes en el i-ésimo día.
 
-Output / Salida
+## Output / Salida
 For each test case, output one line containing Case #x: y, where x is the test case number (starting from 1) and y is the number of record breaking days.
 Para cada caso de prueba, genere una línea que contenga Caso #x: y, donde x es el número de caso de prueba (a partir de 1) e y es el número de días de récord.
 
-Limits / Limites
+## Limits / Limites
 
 Time limit: 20 seconds.
 Memory limit: 1 GB.
 1≤T≤100.
 0≤Vi≤2×105, for all i.
 
-Test Set 1
+### Test Set 1
 1≤N≤1000.
 
-Test Set 2
+### Test Set 2
 1≤N≤2×105, for at most 10 test cases.
 For the remaining cases, 1≤N≤1000.
 
-Sample / Ejemplo
+## Sample / Ejemplo
 
-Sample Input / Ejemplo de Entrada
+### Sample Input / Ejemplo de Entrada
 4
 8
 1 2 0 7 2 0 2 0
@@ -48,7 +48,7 @@ Sample Input / Ejemplo de Entrada
 6
 9 9 9 9 9 9
 
-Sample Output / Ejemplo de Salida
+### Sample Output / Ejemplo de Salida
 Case #1: 2
 Case #2: 1
 Case #3: 3

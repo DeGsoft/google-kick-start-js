@@ -1,11 +1,11 @@
-Problem / Problema
+# Problem / Problema
 You have gathered N bags of candy and you want to distribute the candy amongst M kids. The i-th bag contains Ci pieces of candy. You want to make sure that every kid get the same amount of candy and that the number of pieces of candy they receive is the greatest possible. You can open each bag and mix all pieces of candy before distributing them to the kids.
 Has reunido N bolsas de dulces y quieres distribuir los dulces entre M niños. La i-ésima bolsa contiene Ci caramelos. Deseas asegurarte de que todos los niños reciban la misma cantidad de dulces y que la cantidad de dulces que reciban sea la mayor posible. Puedes abrir cada bolsa y mezclar todos los dulces antes de distribuirlos a los niños.
 
 How many pieces of candy will remain after you share the candy amongst kids, based on the rules described above?
 ¿Cuántos dulces quedarán después de compartir los dulces entre los niños, según las reglas descritas anteriormente?
 
-Input / Entrada
+## Input / Entrada
 The first line of the input gives the number of test cases, T. T test cases follow.
 La primera línea de la entrada da el número de casos de prueba, T. Siguen los casos de prueba T.
 
@@ -15,32 +15,32 @@ Cada caso de prueba consta de dos líneas. La primera línea de cada caso de pru
 The next line contains N non-negative integers C1,C2,…,CN representing array C, where the i-th integer represents the number of candies in the i-th bag.
 La siguiente línea contiene N enteros no negativos C1,C2,…,CN que representan la matriz C, donde el i-ésimo entero representa el número de dulces en la i-ésima bolsa.
 
-Output / Salida
+## Output / Salida
 For each test case, output one line containing Case #x: y, where x is the test case number (starting from 1) and y is the number of candies that will remain if you divide candies between kids according to the rules described above.
 Para cada caso de prueba, genere una línea que contenga Caso #x: y, donde x es el número del caso de prueba (a partir de 1) e y es la cantidad de dulces que quedarán si divide los dulces entre los niños de acuerdo con las reglas descritas anteriormente.
 
-Limits / Limites
+## Limits / Limites
 
 Time limit: 60 seconds.
 Memory limit: 1 GB.
 
-Test Set 1
+### Test Set 1
 
 1≤T≤100.
 1≤N≤105.
 1≤M≤104.
 0≤Ci≤1000, for all i from 1 to N.
 
-Sample / Ejemplo
+## Sample / Ejemplo
 
-Sample Input / Ejemplo de Entrada
+### Sample Input / Ejemplo de Entrada
 2
 7 3
 1 2 3 4 5 6 7
 5 10
 7 7 7 7 7
 
-Sample Output / Ejemplo de Salida
+### Sample Output / Ejemplo de Salida
 Case #1: 1
 Case #2: 5
 
