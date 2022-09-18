@@ -24,36 +24,36 @@ For each test case, output one line containing Case #x: y, where x is the test c
 
 ## Limits / Limites
 
-Time limit: 20 seconds.
-Memory limit: 1 GB.
-1≤T≤100.
-0≤Vi≤2×105, for all i.
+* Time limit: 20 seconds.
+* Memory limit: 1 GB.
+* 1≤T≤100.
+* 0≤Vi≤2×105, for all i.
 
 ### Test Set 1
 1≤N≤1000.
 
 ### Test Set 2
-1≤N≤2×105, for at most 10 test cases.
-For the remaining cases, 1≤N≤1000.
+* 1≤N≤2×105, for at most 10 test cases.
+* For the remaining cases, 1≤N≤1000.
 
 ## Sample / Ejemplo
 
 ### Sample Input / Ejemplo de Entrada
-4
-8
-1 2 0 7 2 0 2 0
-6
-4 8 15 16 23 42
-9
-3 1 4 1 5 9 2 6 5
-6
-9 9 9 9 9 9
+* 4
+* 8
+* 1 2 0 7 2 0 2 0
+* 6
+* 4 8 15 16 23 42
+* 9
+* 3 1 4 1 5 9 2 6 5
+* 6
+* 9 9 9 9 9 9
 
 ### Sample Output / Ejemplo de Salida
-Case #1: 2
-Case #2: 1
-Case #3: 3
-Case #4: 0
+* Case #1: 2
+* Case #2: 1
+* Case #3: 3
+* Case #4: 0
 
 In Sample Case #1, the underlined numbers in the following represent the record breaking days: 1 [2] 0 [7] 2 0 2 0.
 > En el caso de muestra 1, los números subrayados a continuación representan los días de récord: 1 [2] 0 [7] 2 0 2 0.
