@@ -4,6 +4,7 @@ Isyana is given the number of visitors at her local theme park on N consecutive 
 
 -Either it is the first day, or the number of visitors on the day is strictly larger than the number of visitors on each of the previous days.
 > O es el primer día, o el número de visitantes en el día es estrictamente mayor que el número de visitantes en cada uno de los días anteriores.
+
 -Either it is the last day, or the number of visitors on the day is strictly larger than the number of visitors on the following day.
 > O es el último día o el número de visitantes del día es estrictamente mayor que el número de visitantes del día siguiente.
 
