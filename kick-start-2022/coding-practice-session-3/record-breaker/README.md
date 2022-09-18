@@ -30,7 +30,7 @@ For each test case, output one line containing Case #x: y, where x is the test c
 * 0≤Vi≤2×105, for all i.
 
 ### Test Set 1
-1≤N≤1000.
+* 1≤N≤1000.
 
 ### Test Set 2
 * 1≤N≤2×105, for at most 10 test cases.

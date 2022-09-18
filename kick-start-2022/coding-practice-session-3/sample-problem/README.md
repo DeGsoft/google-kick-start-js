@@ -21,28 +21,28 @@ For each test case, output one line containing Case #x: y, where x is the test c
 
 ## Limits / Limites
 
-Time limit: 60 seconds.
-Memory limit: 1 GB.
+* Time limit: 60 seconds.
+* Memory limit: 1 GB.
 
 ### Test Set 1
 
-1≤T≤100.
-1≤N≤105.
-1≤M≤104.
-0≤Ci≤1000, for all i from 1 to N.
+* 1≤T≤100.
+* 1≤N≤105.
+* 1≤M≤104.
+* 0≤Ci≤1000, for all i from 1 to N.
 
 ## Sample / Ejemplo
 
 ### Sample Input > Ejemplo de Entrada
-2
-7 3
-1 2 3 4 5 6 7
-5 10
-7 7 7 7 7
+* 2
+* 7 3
+* 1 2 3 4 5 6 7
+* 5 10
+* 7 7 7 7 7
 
 ### Sample Output / Ejemplo de Salida
-Case #1: 1
-Case #2: 5
+* Case #1: 1
+* Case #2: 5
 
 In Sample Case #1, we have N=7 bags of candy. In total we have 1+2+3+4+5+6+7=28 candies that we want to divide between M=3 kids. Every kid can get 9 pieces of candy, so 28−3×9=1 pieces of candy will remain.
 > En el Caso de Muestra #1, tenemos N=7 bolsas de dulces. En total tenemos 1+2+3+4+5+6+7=28 caramelos que queremos repartir entre M=3 niños. Cada niño puede recibir 9 dulces, por lo que quedarán 28−3×9=1 dulces.
