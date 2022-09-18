@@ -7,7 +7,9 @@ Google Kick Start in JavaScript
 
 #### [Sample Problem](kick-start-2022/coding-practice-session-3/sample-problem/README.md)
 
+#### [Record Breaker](kick-start-2022/coding-practice-session-3/record-breaker/README.md)
 
 # Author
 [LinkedIn](https://www.linkedin.com/in/diegoezequielguillen)
+
 [Twitter](https://twitter.com/DeGsoft)
